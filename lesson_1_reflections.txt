@@ -1,0 +1,44 @@
+Being able to compare makes the job of editing
+a lot easier.I can create multiple copies of an archetype
+introducing desired variations in each one.
+Having done that I can easily relate it with the
+original and decide which one I want to use in my final product.
+
+
+
+Say there is a certain section of code in my program
+which I feel I don't need.The most obvious move would be to remove it 
+from my program.After working on my program for some days I realize I need the 
+portion I had removed.Assuming that that portion was a lengthy section of code
+and reflecting that this will surely happen again in the future when I will realize the need
+of something I had done in the past but had omitted it ,in such a case it would be really helpful
+and would save an enormous amount of time if I have aaccess to previous versions of
+the file I'm working in.
+
+
+In case I forget to commit, autosaving would do the job for me 
+but if the autosaving happens at regualr intervals and a huge number of changes are made before the
+time slice elapses a lot of content that night be needed in the future 
+will be omitted.Considering that case, there needs to be a provision for manual saving as well.
+
+
+Git was made keeping coding in mind.A program may span across multiple number of files and 
+a component of the code(say, a variable) may be in use in more than one file.
+If we have to make some changes to the component we'll have to make changes in 
+all files where the component makes an appearance.And we might need several variations in that component.
+Multiple files in one commit reduces the number of commits in a situation like this. 
+I have no idea why Google Docs does not provide for that.
+
+
+git log enables me to see all the previous versions of file.git diff delineates the specific changes 
+that have been made throughout the file history.
+
+
+Now that I can switch to previous versions of a file using git checkout, 
+I can dare to take risks and try out different things.And if some problem goes 
+unnoticed right now I don't have to worry about it because it will get caught at some point 
+of time during development and I can just checkout to different versions to find which version
+introduced the bug.
+
+
+I look forward to using Git as a reservoir my code in developing projects
