@@ -1,0 +1,9 @@
+Initialising applies certain configs
+that are prerequisites in a Git repository.
+
+
+
+One useful service that the staging area wouuld offer that I can
+think of is when I have to save multiple number of files in one commit 
+I can make a kind of final draft before the commit.It would add a 
+certain degree of latitude,I guess.
