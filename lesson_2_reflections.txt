@@ -7,3 +7,15 @@ One useful service that the staging area wouuld offer that I can
 think of is when I have to save multiple number of files in one commit 
 I can make a kind of final draft before the commit.It would add a 
 certain degree of latitude,I guess.
+
+
+Left One
+
+
+Branches are helpful when I want to experiment or try out 
+different things.I can create branches of the code written so far 
+and implement variations in the branches.
+
+
+The tree structure makes the entire picture clear
+and offers great help when I want to navigate between commits.
