@@ -5,3 +5,9 @@ carrying my laptop with me.And the computer that I have access to might not be h
 
 I would always prefer to pull changes manually because I wouldn't want changes made by someone else
 to alter my code without my permission.
+
+
+I would use clone when I want to import a repository to my machine and work locally.
+I'd use fork when I'd want to make changes to data in someone's repository but I do not 
+wish to contribute to his repository.
+Branches are when I want to produce a variation of my own,say, code.
