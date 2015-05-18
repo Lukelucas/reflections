@@ -19,3 +19,13 @@ and implement variations in the branches.
 
 The tree structure makes the entire picture clear
 and offers great help when I want to navigate between commits.
+
+
+Merging different branches can be helpful if in my project I want 
+to add certain features which somebody else might have come up with
+in her code when she was working on ,say, a similar project.
+
+
+
+Though automerging has its pros its always preferable
+to let the user make the decision when there is similarity in code.
