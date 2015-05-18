@@ -1,0 +1,2 @@
+I would use Gitthub to make changes to my repository,say when I am out and suddenly something strikes me.I wouldn't always be 
+carrying my laptop with me.And the computer that I have access to might not be having Git on it. 
